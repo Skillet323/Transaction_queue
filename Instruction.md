@@ -1,6 +1,6 @@
 # INSTRUCTION FOR LAUNCH
 ## Измененение файлов
-В zip - добавить нужные payments и transactions, а также features и labels (если имеются)
+В zip - добавить нужные payments и transactions, а также features и labels (если имеются)\n
 В main.ipynb прописать пути/названия новых файлов
 ## Используем базовый образ с Python
 FROM python:3.9-slim
