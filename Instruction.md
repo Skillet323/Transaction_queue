@@ -16,3 +16,5 @@ ENV PYTHONUNBUFFERED=1
 
 ## Указываем команду запуска
 CMD ["python", "-m", "notebook", "main.ipynb"]
+docker run -d --name hackk-runner -p 8888:8888 hackk-container
+
